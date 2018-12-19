@@ -7,6 +7,6 @@
     <title>日语五十音图学习</title>
     <!-- 引入 FrozenUI -->
     <link rel="stylesheet" href="http://i.gtimg.cn/vipstyle/frozenui/2.0.0/css/frozen.css"/>
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c|Noto+Sans+SC:300,400" rel="stylesheet">
 </head>
 <body>

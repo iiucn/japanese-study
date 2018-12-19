@@ -3,7 +3,7 @@
     .japanese {
         font-family: 'Noto Sans SC', sans-serif;
         font-size: .3rem;
-        font-weight: 300;
+        font-weight: 400;
     }
     .japanese i {
         padding: 0 .15rem;
