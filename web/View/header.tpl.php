@@ -8,5 +8,6 @@
     <!-- 引入 FrozenUI -->
     <link rel="stylesheet" href="http://i.gtimg.cn/vipstyle/frozenui/2.0.0/css/frozen.css"/>
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c|Noto+Sans+SC:300,400" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
