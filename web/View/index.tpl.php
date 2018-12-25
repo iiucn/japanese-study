@@ -36,6 +36,18 @@
                     </label>
                     <p>な行</p>
                 </div>
+                <div class="ui-form-item ui-form-item-checkbox ui-border-b">
+                    <label class="ui-checkbox">
+                        <input name="index[]" type="checkbox" value="ha"/>
+                    </label>
+                    <p>は行</p>
+                </div>
+                <div class="ui-form-item ui-form-item-checkbox ui-border-b">
+                    <label class="ui-checkbox">
+                        <input name="index[]" type="checkbox" value="ma"/>
+                    </label>
+                    <p>ま行</p>
+                </div>
                 <div class="ui-btn-wrap">
                     <button class="ui-btn-lg ui-btn-primary">
                         确定
